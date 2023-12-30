@@ -45,5 +45,5 @@ _Who am I to blame others for my wounds. I won’t blame them, and they cannot h
 _For the nearly 5,000 sperm that make it into the utero-tubal junction, around 1,000 of these reach the inside of the Fallopian tube. -For the 1,000 sperm entering the tube, only around 200 actually reach the egg. -In the end, only 1 lucky sperm out of this group of 200 actually penetrates and fertilizes the egg!_
 _There were many possibilities, for the humans, for my ancestors and for myself. My existence is a miracle and i will not deny it. I acknowledge the process for my existence and today, i bow to accept the responsibility to take its care. Without a rest, my heart is beating my life. My arteries are carrying the being(blood). My kidneys, my lungs, my liver, my brain, my limbs, my ears, my eyes; yeah, all cells are processing to keep me alive. I will always accept this reality and stay grounded. My useless thoughts won’t define me, for I am bigger than my consciousness. I pay respect to my body, and i will care it properly. I will feed myself with good food and good thought. I will love myself._
 
-{{< figure src="/images/grateful.jpeg" width=400 height=500 >}}
+{{< figure src="https://github.com/yogeshniu/yogesh/blob/main/static/images/grateful.jpeg" width=400 height=500 >}}
 
