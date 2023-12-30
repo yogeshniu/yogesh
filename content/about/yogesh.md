@@ -4,7 +4,7 @@ title: "Yogesh Sharma Neupane"
 draft: false
 
 ---
-![](https://github.com/yogeshniu/yogesh/blob/main/static/images/ys.png)
+![](/static/images/ys.png)
 
 **_Civil Engineer Specializing in Hydropower | Travel and Sports Lover  | Running Enthusiast_**
 ## Personal Information
