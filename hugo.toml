@@ -2,6 +2,7 @@ baseURL = "www.yogeshsn.com.np"
 languageCode = "en-us"
 title = "yogeshsn"
 theme = "hugo-blog-awesome"
+canoifyURLs = true
 
 [menu]
  [[menu.main]]
