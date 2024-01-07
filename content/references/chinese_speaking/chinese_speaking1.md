@@ -14,11 +14,13 @@ Chinese is a tonal language, and tones play a crucial role in distinguishing mea
 3. ǎ (third tone)
 4. à (fourth tone)
 
+![](https://www.hackingchinese.com/wp-content/uploads/2011/09/all-four-tones_low-t3_tone-height-chart_mandarin-chinese_hacking-chinese-1024x312.png)
 ## Tone Drills
 Practice the tones with the following examples:
 
 - mā (马) - horse
 - mà (骂) - scold
+{{<youtube RRaHXPDIV-4>}}
 
 ## Why are Tones Important?
 Tones change the meaning of a word, emphasizing the importance of proper pronunciation.
@@ -41,6 +43,7 @@ Tones change the meaning of a word, emphasizing the importance of proper pronunc
 - z, c, s
 - y, w
 
+{{<youtube RnZ4NUlXlfQ>}}
 ## Examples with New Words
 
 - **nǐ hǎo** (你好) - Hello

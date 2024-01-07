@@ -36,6 +36,7 @@ draft = false
 - **jiějie** (姐姐) - Elder sister
 - **dìdi** (弟弟) - Younger brother
 - **mèimei** (妹妹) - Younger sister
+{{<youtube uc7qd9xPpDY>}}
 
 ## Tone Positions
 

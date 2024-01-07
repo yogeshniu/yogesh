@@ -39,10 +39,6 @@ B: 五十块。
 A: 一瓶水多少钱？ (Yì píng shuǐ duōshao qián?)  
 B: 两块。
 
-### Sentence Making
-- **gè píng běn** (个瓶本) - one bottle of book
-- **běnzi cídiǎn** (本字典) - one book of dictionary
-- **píjiǔ miànbāo** (瓶酒面包) - one bottle of bread (this doesn't make much sense but follows the pattern)
 
 ## Tone Sandhi
 
@@ -92,9 +88,10 @@ B: Fifty yuan.
 A: How much is a bottle of water?  
 B: Two yuan.
 
-### Additional Examples
-- **gè píng běn** (个瓶本) - one bottle of book
-- **běnzi cídiǎn** (本字典) - one book of dictionary
-- **píjiǔ miànbāo** (瓶酒面包) - one bottle of bread (this doesn't make much sense but follows the pattern)
+### Measure words
+- gè - People and everything   píng - for water/drinks  běn- books, notebooks, magazines 
+  (běnzi cídiǎn (本字典)) 
+- **píjiǔ miànbāo** (瓶酒面包)   
+![](https://mandarinwow.files.wordpress.com/2023/09/whatsapp-image-2023-09-05-at-11.02.39.jpg)
 
 **Disclaimer:** These teachings are sourced from the Chinese Speaking Class 2023-2024 organized by the Chinese Cultural Centre in Nepal. For official information and inquiries, please visit [Chinese Cultural Centre Nepal](https://www.facebook.com/cccnepal2015). The instructor, Laoshi Jitesh Maharjan, can be reached through his Facebook profile: [Jitesh Maharjan](https://www.facebook.com/jites210).

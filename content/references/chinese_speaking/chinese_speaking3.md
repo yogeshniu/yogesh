@@ -74,6 +74,4 @@ B: 我买词典。 (Wǒ mǎi cídiǎn.)
 - **bā** (八) - eight
 - **jiǔ** (九) - nine
 - **shí** (十) - ten
-
-**Disclaimer:** These teachings are sourced from the Chinese Speaking Class 2023-2024 organized by the Chinese Cultural Centre in Nepal. For official information and inquiries, please visit [Chinese Cultural Centre Nepal](https://www.facebook.com/cccnepal2015). The instructor, Laoshi Jitesh Maharjan, can be reached through his Facebook profile: [Jitesh Maharjan](https://www.facebook.com/jites210).
-
+![](https://i.pinimg.com/originals/06/b9/9c/06b99cdca5d61af262ec1cea1ea000af.jpg)
