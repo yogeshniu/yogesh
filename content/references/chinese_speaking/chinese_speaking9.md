@@ -23,7 +23,7 @@ Dialogue 1:
 Teacher: What are you studying?  
 Luó shān: I am studying Chinese.  
 Teacher: Where are you studying Chinese?  
-Luó shān: I am studying Chinese at the Chinese Culture Center in China.  
+Luó shān: I am studying Chinese at the Chinese Culture Center.  
 Teacher: How many students are there in your class?  
 Luó shān: We have thirty students.  
 Teacher: How many teachers are teaching you?  
