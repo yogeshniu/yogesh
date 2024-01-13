@@ -144,4 +144,65 @@ draft = false
 | shuìjiào  | 睡觉       | to sleep                           |
 | zhèr     | 这儿       | here                              |
 | wǎnshàng  | 晚上       | evening                           |
-
+| fù      | 复        | again; repeat             |
+| qín     | 勤        | diligent                  |
+| gōngzuò | 工作      | work; job                 |
+| yīshēng  | 医生      | doctor                    |
+| měitiān | 每天      | every day                 |
+| nǔlì    | 努力      | diligent; hardworking     |
+| gōngsī  | 公司      | company                   |
+| zhíyuán | 职员      | staff member; employee    |
+| jìzhě   | 记者      | journalist                |
+| tèbié   | 特别      | special                   |
+| hǎochī  | 好吃      | delicious                 |
+| xiǎohái | 小孩      | child; kid                |
+| Měiguó  | 美国      | United States (America)   |
+| xiǎng   | 想        | to want; to think         |
+| jiā     | 家        | family; home              |
+| dāngrán | 当然      | of course; certainly      |
+| kǒu     | 口        | mouth                     |
+| xiōngdì  | 兄弟      | brothers                  |
+| jiěmèi  | 姐妹      | sisters                   |
+| dúshēngnǚ | 独生女   | only daughter            |
+| fùmǔ    | 父母      | parents                   |
+| jīnnián | 今年      | this year                 |
+| duō     | 多        | many; much                |
+| niánjì   | 年纪      | age                       |
+| suì     | 岁        | year (of age)             |
+| mìmì    | 秘密      | secret                    |
+| háizi   | 孩子      | child                     |
+| érzi    | 儿子      | son                       |
+| zhēn    | 真        | really; very              |
+| shòuhuòyuán | 售货员   | shop assistant        |
+| jīnglǐ   | 经理      | manager                   |
+| sījī    | 司机      | driver                    |
+| yéye    | 爷爷      | grandfather               |
+| nǎinai  | 奶奶      | grandmother               |
+| dàngāo  | 蛋糕      | cake                      |
+| míngpiàn | 名片     | name card; business card |
+| jítā    | 及其他    | and others; and so on     |
+| xǐhuan  | 喜欢      | to like; to enjoy         |
+| ài      | 爱        | to love                   |
+| dà gē   | 大哥      | eldest brother            |
+| dà jiě  | 大姐      | eldest sister             |
+| xiànzài | 现在      | now                       |
+| diǎn    | 点        | o'clock                   |
+| kè      | 课        | class                     |
+| bàn     | 半        | half                      |
+| zǎofàn  | 早饭      | breakfast                 |
+| shíjiān | 时间      | time                      |
+| shàngkè | 上课      | to attend class           |
+| cóng...dào... | 从...到... | from... to...        |
+| shàngwǔ | 上午      | morning                   |
+| jīntiān | 今天      | today                     |
+| yuè     | 月        | month                     |
+| hào (rì) | 号 (日)   | date                      |
+| xīngqī  | 星期      | week                      |
+| xīngqīrì | 星期日    | Sunday                   |
+| fēn     | 分钟 (zhōng) | minute                    |
+| ménkǒu  | 门口      | entrance                  |
+| děng    | 等        | to wait                   |
+| zǎoshang | 早上      | morning                  |
+| qǐ      | 起        | to get up; to rise        |
+| chuáng  | 床        | bed                       |
+| shēngrì | 生日      | birthday                  |
