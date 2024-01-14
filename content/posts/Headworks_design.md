@@ -8,11 +8,11 @@ draft = false
 
 The initial step involves a topographical survey, requiring a D card from the survey department of Nepal to obtain XYZ coordinates. Control points are established through surveying techniques like triangulation to create a detailed map at a 1:1000 scale.
 
-The importance of a detailed map lies in understanding the depth and width needed for foundation work during hydropower headworks construction. Cross-section work, at least 500 meters upstream and downstream, and 20 meters from the high flood label, is essential for design. Additionally, presenting an L-section of the river for about one kilometer upstream and downstream of the headworks is crucial.
+The importance of a detailed map lies in understanding the depth and width needed for foundation work during hydropower headworks construction. Cross-section work, at least 500 meters upstream and downstream, at 20m intervals  and 20 meters from the high flood level, is essential for design. Additionally,  L-section of the river for about 1 km upstream and downstream of the headworks is crucial.
 
-Hydrological and sedimentological requirements involve establishing a gauging station to collect discharge data over time. This data aids in river cross-section analysis, hydrological analysis, regression analysis, flow duration curve derivation, frequency analysis, and sediment data collection for the river basin. The sediment data helps design various components of hydropower headworks, considering sediment flow and calculating the time required for sediment filling in the reservoir.
+Hydrological and sedimentological requirements involve establishing a gauging station to collect discharge data over time. This data aids in river cross-section analysis, hydrological analysis, regression analysis, flow duration curve derivation, frequency analysis, and sediment data collection for the river basin. The sediment data helps in designing of various components of hydropower headworks by considering sediment flow and calculating the time required for sediment filling in the reservoir.
 
-Mr. Bharat Raj Pandey then discussed the calculation of the design flood. Different categories of reservoirs have varying general and minimum standards. For instance, for Category One, where a breach endangers lives, the general standard is the probable maximum flood (PMF), and the minimum standard is 0.5 PMF or a 10,000-year flood.
+Mr. Bharat Raj Pandey then discussed the calculation of the design flood. Different categories of reservoirs have varying general and minimum standards. For instance, for Category 1, where a breach endangers lives, the general standard is the probable maximum flood (PMF), and the minimum standard is 0.5xPMF or a 10,000-year flood.
 
 Breaching of dams can occur due to factors like glacier load, earthquakes, or slope failure. Geology and geotechnical requirements involve detailed geological surveying, geophysical and geotechnical investigations, including core drilling, rock and soil classification, borehole logs, seismological studies, construction material survey and testing, test pitting, trenching, geological tests, in-situ rock tests, and laboratory tests, water pressure tests, and permeability tests. These tests are essential for a comprehensive understanding of the site.
 
@@ -24,16 +24,16 @@ Here are the key points he covered:
 - Control points are established through survey methods like triangulation.
 - Mapping of the headworks is done at a scale of 1:1000 to create a detailed map.
 - Understanding the depth and width for foundation work is essential during hydropower headworks construction.
-- Cross-section work is needed at least 500 meters upstream and downstream, and 20 meters from the high flood label.
-- Presentation of L-sections of the river at least one kilometer upstream and downstream is also necessary.
+- Cross-section work is needed at least 500 meters upstream and downstream, at 20m intervals.
+- Presentation of L-sections of the river at least 1 km upstream and downstream is also necessary.
 
 **Hydrological and Sedimentological Requirements:**
 - Design discharge for future design work is crucial, requiring monthly and daily design with plotted discharge data.
 - Gauging stations are established to measure discharge data over time.
-- Hydrological data collection is followed by river cross-section analysis at 500 meters.
+- Hydrological data collection is followed by river cross-section analysis.
 - Hydrological analysis, regression analysis, flow duration curve (FDC), monthly flow duration curve, and frequency analysis are performed.
 - Collection of sediment data is necessary to establish sediment flow in the river basin, including data on suspension load and bed load.
-- The collected data helps design various components of hydropower headwork.
+- The collected data helps to design various components of hydropower headwork.
 
 **Design Flood and Standards:**
 - Calculation of the design flood involves general and minimum standards for different categories.
@@ -86,10 +86,10 @@ Considering these factors in a human-like manner ensures a thoughtful and compre
 In our comprehensive discussion guided by Mr. Bharat Raj Pandey, we delved into the functional requirements and general considerations for effective headworks design.
 
 1. **Withdrawal of the River:**
-   For Run-of-River (RoR) projects, the capability to withdraw discharge in both dry and wet seasons is imperative. Additionally, provisions must be made to meet hourly withdrawal requirements.
+   For Run-of-River (RoR) projects, the capability to withdraw discharge in both dry and wet seasons is imperative. Additionally, provisions must be made to meet hourly withdrawal requirements for PRoR projects.
 
 2. **Flood Damage:**
-   Headworks must ensure safe passage of floods at a ratio of 1:100 or larger. The structure should withstand floods, including those resulting from Glacial Lake Outburst Floods (GLOF), Cloudburst (CLOF), and landslide breaches. Structures should not clog, and attention must be given to the backwater level on the upstream side due to dam-induced water level rise.
+   Headworks must ensure safe passage of floods;  design floods 1:100 or larger. The structure should withstand floods, including those resulting from Glacial Lake Outburst Floods (GLOF), CLOF, and landslide breaches. Structures should not clog, and attention must be given to the backwater level on the upstream side due to dam-induced water level rise.
 
 3. **Provision for Trashes and Floating Debris:**
    Structures should be designed to prevent clogging with floating debris, timber, logs, and vegetation.
@@ -107,9 +107,9 @@ In our comprehensive discussion guided by Mr. Bharat Raj Pandey, we delved into 
    Ensuring the intake is not blocked with sediment and has a flushing arrangement for the exclusion of sediment, capable of handling both fine and coarse sediment.
 
 **General Requirements of Headworks:**
-   A holistic exploration of factors affecting headworks design was undertaken. Differences between barrage, weir, and spillway structures were discussed, along with their placement considerations. Factors such as the construction of under sluices, the number of settling basins required for suspended element removal, and sediment load estimations from the river were also covered. 
+   A holistic exploration of factors affecting headworks design was undertaken. Differences between barrage, weir, and spillway structures were discussed, along with their placement considerations. Factors such as the construction of under sluices, the number of settling basins required for suspended sediment removal, and sediment load estimations from the river were also covered. 
 
-   Noteworthy was the insight into Nepali hydropower design, where 17 to 25 percent of floor discharge is generally considered for bed load. Examples of projects designed by Mr. Pandey's consultancy, including an underground sedimentation tank designed to address landslide risks, were also shared. Considerations for velocity, forebay design, and fish passage requirements for environmental preservation were emphasized, with specific guidelines for maintaining fish passage and managing scour depth.
+   Noteworthy was the insight into Nepali hydropower design, where 17 to 25 percent of floor discharge is generally considered for bed load. Examples of projects designed by him, including an underground sedimentation tank designed to address landslide risks, were also shared. Considerations for velocity, forebay design, and fish passage requirements for environmental preservation were emphasized, with specific guidelines for maintaining fish passage and managing scour depth.
 
 The discussion highlighted the need for careful adaptation of design criteria in Nepal, considering its unique geological features and the lack of extensive research in certain areas.
 
@@ -119,30 +119,8 @@ When determining the location of intake for hydropower projects, careful conside
 In the context of Nepal, where Himalayan rivers are prevalent, the terrain presents specific challenges. Here's an exploration of the considerations for the location of intakes, drawing examples from the Nepali landscape:
 ![](https://www.nzdl.org/gsdl/collect/hdl/index/assoc/HASH10e6.dir/p036.png)
 
-**1. Inner Bend Placement:**
-   - **Advantages:**
-      - Reduced sediment accumulation: Placing the intake on the inner bend tends to avoid sediment deposition, especially in rivers with high sediment loads. The outer bend often accumulates more sediment due to reduced water velocity.
-      - Better protection against erosion: The inner bend is generally sheltered from strong erosive forces, providing a more stable foundation for the intake structure.
-
-   - **Considerations:**
-      - Increased risk of bank erosion: While inner bends may be less prone to sediment deposition, they can be more susceptible to bank erosion, potentially affecting the stability of the intake structure.
-      - Careful analysis required: Due to the lack of standard guidelines in Nepal, careful analysis of the specific river conditions is essential to determine the feasibility and safety of placing intakes on inner bends.
-  
-
-
-**2. Outer Bend Placement:**
-   - **Advantages:**
-      - Higher water velocity: The outer bend typically experiences higher water velocities, which can help in maintaining self-cleaning conditions and reducing sediment deposition at the intake.
-      - Reduced risk of bank erosion: The outer bend is generally less prone to bank erosion, providing a more stable foundation for the intake.
-
-   - **Considerations:**
-      - Sediment accumulation risk: While higher velocities can reduce sediment accumulation, certain situations, such as changes in river course or local topography, might lead to sediment accumulation on the outer bend.
-      - Potential for increased maintenance: The higher water velocities may bring larger debris, requiring careful engineering to prevent clogging and ensure the intake's operational efficiency.
-
 **Example from Nepal:**
    - In Nepali hydropower projects, the choice between inner and outer bend placement is often influenced by the predominant presence of boulders in Himalayan rivers.
-   - **Scenario:** If a river has a substantial boulder load and the outer bend has a smoother bedrock surface, placing the intake on the outer bend might be more practical to minimize sediment-related challenges.
-
 It's important to note that the decision on intake location involves a site-specific analysis, and a detailed understanding of the river's behavior and sediment transport dynamics is critical. Additionally, while Nepali engineers may refer to international standards, adaptation to the unique conditions of Himalayan rivers is imperative for successful and sustainable hydropower projects.
 
 ## References
