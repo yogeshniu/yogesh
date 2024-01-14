@@ -142,3 +142,5 @@ Lìlì: How about meeting at 8:55? I'll wait for you at the school gate.
 | qǐ      | 起        | to get up; to rise        |
 | chuáng  | 床        | bed                       |
 | shēngrì | 生日      | birthday                  |
+
+**Disclaimer:** These teachings are sourced from the Chinese Speaking Class 2023-2024 organized by the Chinese Cultural Centre in Nepal. For official information and inquiries, please visit [Chinese Cultural Centre Nepal](https://www.facebook.com/cccnepal2015). The instructor, Laoshi Jitesh Maharjan, can be reached through his Facebook profile: [Jitesh Maharjan](https://www.facebook.com/jites210).
