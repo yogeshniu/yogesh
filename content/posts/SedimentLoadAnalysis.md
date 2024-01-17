@@ -109,5 +109,5 @@ SSL observed...
 ### Step 6: Visualize Results
 
 6.1 **Plotting:**
-   - Plot observed SSL, predicted SSL, and cumulative SSL to visualize the effect of bias correction.
+   - Plot results from diffrent process and interpret.
 
