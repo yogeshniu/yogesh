@@ -1,17 +1,17 @@
 +++
-title = 'HEC RAS Part One Tutorial'
+title = 'HEC HMS Part One Tutorial'
 date = 2024-01-21T10:28:59+05:45
 draft = false
 +++
 
-**Tutorial on HEC-RAS: Hydrologic Engineering Center River Analysis System**
+**Tutorial on HEC-HMS: Hydrologic Engineering Center Hydrologic Modelling System**
 
 **Introduction:**
-HEC-RAS, developed by the U.S. Army Corps of Engineers, is a robust software for hydraulic modeling of river and floodplain systems. In this tutorial, we'll cover the step-by-step process of setting up a project, defining basin components, importing GIS data, and performing a simulation run. The primary objective is to equip users with the foundational knowledge needed to analyze river systems and derive critical information for dam break analysis.
+HEC-HMS, developed by the U.S. Army Corps of Engineers, is a robust software for hydraulic modeling of river and floodplain systems. In this tutorial, we'll cover the step-by-step process of setting up a project, defining basin components, importing GIS data, and performing a simulation run. The primary objective is to equip users with the foundational knowledge needed to analyze river systems and derive critical information for dam break analysis.
 
 {{<youtube pr0MhRaph-k>}}
 **Step 1: Setting Up a New Project**
-1. Open HEC-RAS and navigate to `File -> New` to initiate a new project.
+1. Open HEC-HMS and navigate to `File -> New` to initiate a new project.
 2. Provide a descriptive name and project details, select metric units, and designate a directory for the project. Confirm by clicking `OK`.  
 _In the left side panel, you can see a folder displayed under project name_
 
@@ -72,4 +72,4 @@ _The smaller the area, the accurate the results but takes long processing time a
 2. Analyze peak discharge, hydrographs, and other critical information obtained from the simulation results.
 
 **Significance of Results:**
-After Processing in Hec RAS, the output results such as discharge over the period of time can be used to model the hydropower generation.
+After Processing in Hec HMS, the output results such as discharge over the period of time can be used to model the hydropower generation.
