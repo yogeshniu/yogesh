@@ -206,3 +206,29 @@ draft = false
 | qǐ      | 起        | to get up; to rise        |
 | chuáng  | 床        | bed                       |
 | shēngrì | 生日      | birthday                  |
+| wèn     | 问        | to ask                    |
+| Xiǎomíng | 小明      | name of person            |
+| huídá   | 回答      | to answer                 |
+| lǐbian  | 里边      | inside                    |
+| jiàoxué lóu | 教学楼 | teaching building         |
+| bàngōng lóu | 办公楼 | administrative building   |
+| běibian | 北边      | north                     |
+| xībian  | 西边      | west                      |
+| nánbian | 南边      | south                     |
+| fùjìn   | 附近      | nearby; close to           |
+| fànguǎn | 饭馆      | restaurant                |
+| dōngbian | 东边      | east                      |
+| hái     | 还        | still; also               |
+| diànyǐngyuàn | 电影院 | movie theatre             |
+| diànyǐng | 电影      | movie                     |
+| duìmiàn | 对面      | opposite side             |
+| yàodiàn | 药店      | pharmacy                  |
+| pángbian | 旁边      | beside                    |
+| chāoshì | 超市      | supermarket               |
+| pángbian | 旁边      | beside                    |
+| chāoshì | 超市      | supermarket               |
+| zhàopiàn | 照片      | photo                     |
+| zuǒbian | 左边      | left                      |
+| yòubian | 右边      | right                     |
+| zhōngjiān | 中间    | middle                    |
+| hòubian | 后边      | behind                    |
