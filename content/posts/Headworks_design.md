@@ -128,4 +128,3 @@ It's important to note that the decision on intake location involves a site-spec
 - [**Principles of arrangement of intake design from Humanity Development Library**](https://www.nzdl.org/cgi-bin/library?e=d-00000-00---off-0hdl--00-0----0-10-0---0---0direct-10---4-------0-1l--11-en-50---20-about---00-0-1-00-0--4----0-0-11-10-0utfZz-8-00&a=d&cl=CL1.14&d=HASH10e6c50b76a9b6493d7247.4.2)   
 - [**Irrigation Engineering and Hydraulic Structures by Santosh Kumar Garg**](https://www.emakcenter.com/wp-content/uploads/2021/02/irriagtion_engineering_and_hydraulic_structures_by_santosh_kumar_garg.pdf)
 
-{{< tweet user="yogesh__sn" id="1746499844213289252" >}}

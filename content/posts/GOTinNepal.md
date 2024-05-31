@@ -9,6 +9,5 @@ draft = false
 जपान त्यसै विकास भएको होइन, _japanese are very disciplined, hardworking and work for the overall welfare._  चीन को communism system हेर्नु होस्, आज चीन विश्व को एक नम्बर देश बन्दै छ, United states हेर्नुहोस्, a simple person can become a billionaire.
 _It's not about changing a system, it's about improving the system. No Messiah or Ram will come and bring prosperity in the nation, unless common People are aware, disciplined and they follow rules of law. You have the right to be elected and right to elect. This is freedom._
 **It's absolutely necessary to refine our system. Mafias, corruption, monopoly, censorship, deceit bureaucracy must resign, be punished/reformed. The rule of law should be implemented. A good reformed democracy, visionary autocratic or wise king, all can bring peace or destruction.**
-{{< tweet user="yogesh__sn" id="1728314638348243450" >}}
 
 It makes me laugh witnessing  the Game of Thrones in the Nepali Politics.
