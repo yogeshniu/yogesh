@@ -3,7 +3,6 @@ title = 'Pipeflow'
 date = 2024-05-31T16:11:01+05:45
 draft = false
 +++
-Sure, I can help you with that! Here's a detailed tutorial and documentation for the provided code, focusing on simplicity and effectiveness for engineers and 10th-grade students.
 
 ## Introduction
 
