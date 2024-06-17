@@ -5,7 +5,6 @@ draft = false
 +++
 
 ## Introduction
-
 In this tutorial, we'll explore a Python script that calculates the Reynolds number, classifies the flow type, and determines the head loss in pipes. We'll also learn how to process multiple pipes with different properties. This code is useful for engineers and students who need to analyze fluid flow in pipes.
 
 ## Prerequisites
