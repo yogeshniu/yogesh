@@ -1,7 +1,7 @@
 +++
 title = 'Certificate'
 date = 2024-01-28T17:38:46+05:45
-draft = false
+draft = true
 +++
 
 ![](https://images2.imgbox.com/df/b6/D27gskZy_o.png)  
