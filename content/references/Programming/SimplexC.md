@@ -1,7 +1,7 @@
 +++
 title = 'Implementing the Simplex Method in C'
 date = 2024-07-04T19:54:38+05:45
-draft = true
+draft = false
 +++
 
 ### Overview

@@ -19,7 +19,7 @@ Different methods of optimization are shown. Feel easy to access it. [Optimizati
 
 [Simplex Method Using C Program](https://www.yogeshsn.com.np/references/programming/simplexc/)
 
-(Optimization Using Scipy)[https://www.yogeshsn.com.np/posts/scipytutorial/)
+[Optimization Using Scipy](https://www.yogeshsn.com.np/posts/scipytutorial/)
 
 ## MSHPE Semester 1 Study Materials
 [Access this drive link using college account](https://drive.google.com/drive/folders/1VnTZL1egscllJdAUxud5DKdSe_z73whE?usp=sharing)
