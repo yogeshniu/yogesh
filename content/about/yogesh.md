@@ -67,29 +67,27 @@ draft: false
   - Facilitated community connectivity and planning for improved local infrastructure.
 
 
-## Language Skills
-
-- **English:**
-  - Understanding: C2
-  - Speaking: C2
-  - Writing: C1
-  - ...
-- **Chinese:**
-  - Understanding: A2
-  - Speaking: A2
-  - Writing: A2
-  - ...
-- **Hindi:**
-  - Understanding: C2
-  - Speaking: C2
-  - Writing: C1
-  - ...
-
 ## Training and Experiences
+### Sedimentation Management for Reservoir Operation in Storage and Peaking Run-of-River Projects (RESCON2)
+- **Duration:** May 08, 2024 - May 09, 2024
+  -Specialized training from Nikolas Efthymiou on sediment management and sustainable development practices
+  -Organized by WHO 
+
+### Hydrological Enginnering Centre(HEC) Software Package Training
+- **Duration:** Jan 19, 2024 - Jan 24, 2024
+  -Hydrological analysis and modelling
+  -Reservoir system simulation and management
+  -River Hydraulics and Flood Risk Assessment
+  -Organized by Hydropower Program, Department of Civil Engineering- Pulchowk Campus
+  -HEC RAS, HEC HMS, HEC ResSIM 
+
+### WEFE Nexus Capacity Building Courses Piloting
+- **Duration:** May 08, 2024 - May 09, 2024
+  -Organized by CWRS with assistance if IWMI and CGAIR at Pulchowk Campus
+
 
 ### Assessment of Climate Change Impacts on Hydropower Potential
 - **Duration:** June 14, 2023 - June 21, 2023
-- **Responsibilities:**
   - Hydrological Modeling (SWAT)
   - Climate Change Projections (CMIP6)
   - Interdisciplinary Understanding
@@ -118,6 +116,8 @@ draft: false
 - **Topics:** Structural design and analysis in ETABS, 2D and 3D drafting in AutoCAD Project Planning and scheduling, Resource Management, and creating engaging and informative content
 
 ### Study and Research 
+- **Design of 756 MW Storage Hydropower Plant in Nepal (Tamor) - Semester Work**
+- **Sediment Management Using RESCON model**
 - **Hydrological Study Report on Humla Karnali Hydropower Project**
 - **Design of Earthquake Resistant Hospital Building under the supervision of Professor Dr. Gokarna Bahadur Motra**
 - **Engaged in study and demonstration of Traffic Volume Survey, pedestrian survey, Parking Survey, and Road Safety Survey of Kathmandu Valley**
@@ -127,7 +127,8 @@ draft: false
 - **Feasibility study and model demonstration of monorail in Ring Road, Kathmandu**
 
 ## Projects
-
+- **Certificate of Participation in HEC Modulus Training and SWAT Training- Pulchowk Campus**
+- **Certificate of Completion of WEFE Nexus Workshop - CWRS**
 - **Certificate of Appreciation in recognition as a speaker – CESS Nepal, Pulchowk Campus**
 - **Certificate of Completion of Virtual Internship in Civil Engineering – JOHN Holland**
 - **Certificate of Completion of Excel 2019 Essential Training – LinkedIn Learning**
@@ -141,13 +142,6 @@ draft: false
 - **Certificate of Winner – Sankalpa Kathmandu University**
 - **Certificate of Participation – Hult Prize**
 
-## Honors and Awards
-
-- **Merit Based Two-Year Scholarship – Tiilottama Campus**
-- **Excellence Education Award – Tilottama Campus**
-- **Excellence Education Award – Sangam Saving Cooperative Ltd**
-- **Excellence Education Award – Everest English Boarding School**
-- **Silver and Bronze Medals – Everest English Boarding School**
 
 ## Conferences and Seminars
 
@@ -159,7 +153,7 @@ draft: false
 ## Technical Skills
 
 - **Microsoft Office:** Word, Excel, PowerPoint, Project
-- **Programming Tools:** C, Python, PHP, HTML, CSS, and Fortran
-- **Drafting and Modeling:** AutoCAD, Civil 3D, SAP2000, Sketchup, ArcGis, SWAT, HEC-RAS, HEC-HMS
+- **Programming Tools:** C, Python, PHP, HTML, CSS, Matlab, R and Fortran
+- **Drafting and Modeling:** AutoCAD, Civil 3D, SAP2000, Sketchup, GIS , SWAT, HEC-RAS, HEC-HMS, HEC-ResSIM
 - **Project Management:** Working as a Team, Leading Group, Risk analysis, Project Scheduling, Resource Management
 - **Organizational Skills:** Preparation of bills, Procurement, Preparing Reports, Research, and analysis
