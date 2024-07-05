@@ -3,11 +3,10 @@ title = 'Power Generation and Load Balancing Problem'
 date = 2024-07-04T17:33:22+05:45
 draft = true
 +++
-To solve the power generation and load balancing problem using Pyomo and provide the data in a table format, here's a detailed guide:
 
 #### Problem Description
 
-You have a set of power generation units with specific limits and costs per unit of generation. Your goal is to optimize the generation from these units to meet the electricity demand while minimizing the total generation cost.
+We have a set of power generation units with specific limits and costs per unit of generation. Our goal is to optimize the generation from these units to meet the electricity demand while minimizing the total generation cost.
 
 #### Data
 

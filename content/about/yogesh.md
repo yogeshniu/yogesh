@@ -11,7 +11,6 @@ draft: false
 
 - **Name:** Yogesh Sharma Neupane
 - **Nationality:** Nepalese
-- **Phone (Work):** (+977) 9813954035
 - **Email:** [yogeshsn1012@gmail.com](mailto:yogeshsn1012@gmail.com), [yogesh_sn@outlook.com](mailto:yogesh_sn@outlook.com)
 - **Website:** [www.yogeshsn.com.np](http://www.yogeshsn.com.np)
 - **Address (Work):** Lalitpur Metropolitan City, 44600, Lalitpur, Nepal
