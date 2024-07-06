@@ -10,31 +10,117 @@
 <html lang="{{ .Site.LanguageCode }}">
 {{- end -}}
 
-{{- partial "head.html" . -}}
+<head>
+    {{- partial "head.html" . -}}
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&family=Lora:wght@700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f9f9f9;
+            font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            color: #de0404;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 800px;
+            margin: 0px;
+            padding: 0px;
+            box-sizing: border-box;
+        }
+
+        .card {
+            background-color: #f8fca6;
+            border-radius: 3px;
+            box-shadow: 0 4px 12px rgba(236, 229, 240, 0.1);
+            margin: 20px 0;
+            padding: 10px;
+            text-align: center;
+        }
+
+        .update {
+            font-size: 18px;
+            font-weight: 500;
+        }
+
+        .contact, .quote {
+            font-size: 14px;
+            color: #1a16ee;
+            margin: 20px 0;
+        }
+
+        .quote {
+            font-family: 'Lora', serif;
+            font-size: 16px;
+            font-weight: 600;
+        }
+
+        h3.posts-item-note {
+            font-family: 'Trebuchet MS', serif;
+            font-size: 25px;
+            text-align: center;
+        }
+
+        .wrapper {
+            padding: 0px;
+        }
+
+        a {
+            color: #ae3c07;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        @media (min-width: 500px) {
+            body {
+                padding:  0;
+            }
+
+            .container {
+                padding: 0px;
+            }
+        }
+    </style>
+</head>
 
 <body data-theme="{{ $defaultColor }}" class="notransition">
     {{- partial "scriptsBodyStart.html" . -}}
     {{- partial "header.html" . -}}
-    <div class="wrapper">
-        {{ partial "bio" . }}
-        <main aria-label="Content">
-            <h3 class="posts-item-note" aria-label="Recent Posts">{{ T "home.recent_posts" }}</h3>
-            {{/* Show last 5 posts in reverse date order */}}
-            {{ $pagesToShow := where .Site.RegularPages "Type" "in" site.Params.mainSections }}
-            {{ $posts := $pagesToShow.ByDate.Reverse }}
-            {{ range first 5 $posts }}
-            {{ partial "postCard" . }}
-            {{ end }}
-            {{ if gt (len $posts) 5 }}
-            <p>
-                {{ range $firstSection := (where .Site.Sections "Section" "in" (first 1 (.Site.Params.mainSections))) }}
-                <a href="{{ $firstSection.Permalink }}">{{ T "home.see_all_posts" }}</a>
+
+    <div class="container">
+        <div class="card update">
+            Updates: Learning Meta Heuristic Optimization Methods and Machine Learning!!!
+        </div>
+
+        <div class="wrapper">
+            {{ partial "bio" . }}
+            <main aria-label="Content">
+                <h3 class="posts-item-note" aria-label="Recent Posts">{{ T "home.recent_posts" }}RECENT POSTS</h3>
+                {{/* Show last 5 posts in reverse date order */}}
+                {{ $pagesToShow := where .Site.RegularPages "Type" "in" site.Params.mainSections }}
+                {{ $posts := $pagesToShow.ByDate.Reverse }}
+                {{ range first 6 $posts }}
+                {{ partial "postCard" . }}
                 {{ end }}
-            </p>
-            {{ end }}
-        </main>
+                {{ if gt (len $posts) 5 }}
+                <p>
+                    {{ range $firstSection := (where .Site.Sections "Section" "in" (first 1 (.Site.Params.mainSections))) }}
+                    <a href="{{ $firstSection.Permalink }}">{{ T "home.see_all_posts" }}</a>
+                    {{ end }}
+                </p>
+                {{ end }}
+            </main>
+        </div>  
     </div>
     {{- partial "footer.html" . -}}
+    <p class="quote">
+        The day a man becomes superior to pleasure he will also be superior to pain - Seneca
+    </p>
     {{- partial "scriptsBodyEnd.html" . -}}
 </body>
 
