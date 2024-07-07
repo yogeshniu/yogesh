@@ -6,7 +6,7 @@ draft: false
 ---
 **_Civil Engineer Specializing in Hydropower | Travel and Sports Lover  | Running Enthusiast_**
 ## Personal Information
-![](https://thumbs2.imgbox.com/59/83/UXhzLABp_t.png) ![](https://thumbs2.imgbox.com/8f/57/MCZTS6b5_t.png)
+ ![](https://thumbs2.imgbox.com/8f/57/MCZTS6b5_t.png)
 - **Nationality:** Nepalese
 - **Email:** [yogeshsn1012@gmail.com](mailto:yogeshsn1012@gmail.com)
 - **Website:** [www.yogeshsn.com.np](http://www.yogeshsn.com.np)
