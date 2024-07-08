@@ -3,7 +3,7 @@ title = 'Optimizing Rastrigin Function Using GA-PSO Method'
 date = 2024-07-08T16:05:44+05:45
 draft = false
 +++
-[You can access pdf clicking in this link.](http://localhost:1313/pdf.html?file=pdfs/gapso.pdf&title=Hybrid%20GA%20PSO)
+[You can access pdf clicking in this link.](https://www.yogeshsn.com.np/pdf.html?file=pdfs/gapso.pdf&title=Hybrid%20GA%20PSO)
 
 
 
