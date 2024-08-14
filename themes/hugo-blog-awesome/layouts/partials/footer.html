@@ -10,7 +10,7 @@
         {{ T "footer.disclaimer" | safeHTML }}
     </small>
 </footer>
-
+{{ if .Params.katex}}{{ partial "helpers/katex.html" . }}{{ end }}
 {{- if .Site.Params.goToTop -}}
 <a href="#" title="{{ T "footer.go_to_top" }}" id="totop">
     {{ partial "svgs/arrowUp.svg" (dict "height" 48 "width" 48) . }}
