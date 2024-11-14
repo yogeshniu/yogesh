@@ -11,13 +11,13 @@
 {{- end -}}
 
 <head>
+    
     {{- partial "head.html" . -}}
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&family=Lora:wght@700&display=swap" rel="stylesheet">
     <style>
         body {
-            background-color: #f9f9f9;
             font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-            color: #de0404;
+            color: #0c0202;
             display: flex;
             flex-direction: column;
             align-items: center;
@@ -32,7 +32,8 @@
         }
 
         .card {
-            background-color: #f8fca6;
+            background: linear-gradient(135deg, #03886b, #0928c5); /* Gradient background */
+
             border-radius: 3px;
             box-shadow: 0 4px 12px rgba(236, 229, 240, 0.1);
             margin: 20px 0;
