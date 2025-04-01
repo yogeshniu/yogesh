@@ -15,7 +15,8 @@ Furthermore, the study highlights the tradeoffs of integrating environmental flo
 This research contributes to the growing body of knowledge on sustainable hydropower development by demonstrating the potential of advanced optimization techniques in optimizing the release schedule. The findings underscore the need for further research into ecological impacts, climate change adaptation, and multi-objective optimization frameworks to refine reservoir management strategies.
 
 ### Yogesh Sharma Neupane (079MSHPE024) 
-Masters in Hydropower Engineering
+Masters in Hydropower Engineering 
+Pulchowk Campus
 ---
 
 ## Source Code
