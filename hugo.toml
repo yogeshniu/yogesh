@@ -74,3 +74,7 @@ canoifyURLs = true
   enable = true
   css = "https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css"
   js = "https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.js"
+
+[mediaTypes]
+  [mediaTypes."text/x-markdown"]
+    suffixes = ["mmark"]
