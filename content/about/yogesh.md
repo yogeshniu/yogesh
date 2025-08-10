@@ -4,7 +4,7 @@ title: "Yogesh Sharma Neupane"
 draft: false
 
 ---
-**_Civil Engineer Specializing in Hydropower | Travel and Sports Lover  | Running Enthusiast_**
+**_Civil and Hydropower Engineer | Travel and Sports Lover  | Running Enthusiast_**
 ## Personal Information
  ![](https://thumbs2.imgbox.com/8f/57/MCZTS6b5_t.png)
 - **Nationality:** Nepalese
@@ -14,12 +14,18 @@ draft: false
 
 ## Education
 
--  **MSc in Hydropower Engineering**  | Pulchowk Campus | *Ongoing*
+-  **MSc in Hydropower Engineering**  | Pulchowk Campus 
 - **Bachelors in Civil Engineering**         |       Pulchowk Campus
 
 
 ## Work Experience
 
+### Hydropower Engineer
+- **Duration:** July 3, 2025 - Ongoing
+- **Company:** Hydro Tunneling and Research Pvt. Ltd
+- **Responsibilities:**
+   - Hydraulic analysis and design
+   - Hydrological assessment 
 ### Site Engineer / Surveyor
 - **Duration:** March 4, 2023 - May 5, 2023
 - **Company:** Engineering and Planning Solution Consultant (P) Ltd
@@ -30,11 +36,10 @@ draft: false
 
 ### Civil Engineer
 - **Duration:** Sep 2022 - Nov 2022
-- **Company:** Niyatra Consult Pvt. Ltd
+- **Company:** Reef Engineering Consultant Pvt. Ltd, Nepal
 - **Responsibilities:**
-  - Conducted surveys and assessments in various districts.
-  - Utilized AutoCAD, ArcGIS, Excel, Project, and Google Earth for data analysis.
-  - Facilitated meetings with water organization officials.
+  - Structural design and analysis, BOQ preparation and estimation, Site visits and inspections
+  - Utilized AutoCAD,Civil 3D,  ArcGIS, Excel, Project, and Google Earth for data analysis.
 
 ### Survey Enumerator
 - **Duration:** May 9, 2022 - June 29, 2022
